@@ -1,0 +1,22 @@
+h1 {
+    border: 2px;
+    margin: 20px 0px;
+    padding: 10px 90px;
+  }
+.container {
+  border: 2.5px solid coral;
+  background-color: rgb(228, 228, 228);
+}
+.form-group {
+  line-height: 3.0;
+  width: 200px;
+}
+input:valid {
+  background-color: lightgreen;
+}
+input:invalid {
+  background-color: lightpink;
+}
+.btn {
+  margin: 25px 0px;
+}
